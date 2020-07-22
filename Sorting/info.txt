@@ -1,0 +1,7 @@
+"
+bubble sort 
+quick sort
+merge sort
+selection sort
+insertion sort
+"
