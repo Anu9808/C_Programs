@@ -1,0 +1,16 @@
+"In basic Programs, I have uploaded all types of programs which are required.
+like,
+Calculator
+Palindrome number
+Armstrong number
+Strong Number
+linear Search
+Binary Search
+most frequent number
+l.c.m
+H.c.f
+Magic Matrix
+Matrix Rotation
+
+etc.
+"
